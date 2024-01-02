@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072132318452",
+    "project_id": "mems-aad9d",
+    "storage_bucket": "mems-aad9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072132318452:android:400c8309fbbd3d0e76aaa1",
+        "android_client_info": {
+          "package_name": "com.dotcoder.ems"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072132318452-143e8jsfg51q725s6mrnebv1c65ib0au.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDofM05S7ls1DboDsK_N3S6U_ZGCOeqiMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072132318452-143e8jsfg51q725s6mrnebv1c65ib0au.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
